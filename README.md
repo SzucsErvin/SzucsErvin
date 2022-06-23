@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SzucsErvin
-- 👀 I’m interested in network security.  
-- 🌱 I’m currently learning Java, Python
-- 📫 You can reach me at 
+- 🌱 I’m currently learning Python
 
 <!---
 SzucsErvin/SzucsErvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
