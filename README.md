@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SzucsErvin
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Computer Science at University of Szeged.
+- I'm currently learning C. 
 
 <!---
 SzucsErvin/SzucsErvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
